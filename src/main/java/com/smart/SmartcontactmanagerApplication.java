@@ -20,12 +20,12 @@ public class SmartcontactmanagerApplication implements CommandLineRunner  {
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
 //		
-//		String str="durgesh";
+//		String str="Mohammed";
 //		String encode = this.bryBCryptPasswordEncoder.encode(str);
 //		System.out.println(encode);		
-//		String str1="durgesh";
+//		String str1="Ashiq";
 //		String encode2 = this.bryBCryptPasswordEncoder.encode(str1);		
-//		System.out.println(this.bryBCryptPasswordEncoder.matches("durges352h",encode));
+//		System.out.println(this.bryBCryptPasswordEncoder.matches("ashiq123",encode));
 //		
 		
 	}
